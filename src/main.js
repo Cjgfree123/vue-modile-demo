@@ -6,7 +6,8 @@ import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
 import router from './router'
 
-Vue.use(MintUI)
+Vue.use(MintUI);
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
