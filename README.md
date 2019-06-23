@@ -78,3 +78,12 @@ mint-swipe
 8. search  搜索
 
 9. badge 徽章
+
+## loading
+
+1. 默认没有数据展示loading
+
+2. 调整stylus字体大小
+
+# 组件封装 练习
+
